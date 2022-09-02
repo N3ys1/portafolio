@@ -1,0 +1,27 @@
+#app´{
+    background-color: aliceblue;
+}
+.line{
+    height: 6px;
+    background-color: rgb(48, 22, 192);
+    width: 1000px;
+    margin: 8px auto;
+}
+#game{
+    background-color: lightcoral;
+}
+body{
+    text-align: center;
+}
+#myCarousel{
+background-color: rgb(132, 157, 168);
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin: top 15px;
+    color: white ;
+    font-size: 20px;
+}
